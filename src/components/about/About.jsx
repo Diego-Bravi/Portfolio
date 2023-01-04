@@ -32,7 +32,11 @@ const About = () => {
                     </article>
                 </div>
                 <p>
-                Hi, I'm student of system analyst, im very passionate about tecnology and lenguages. !
+                Hello! My name is Diego Bravi. I am a Systems Analyst student at Colegio Universitario IES Cordoba, Argentina.
+
+                I am passionate about technology and I am looking for the opportunity to have my first job as a programmer. I am a proactive person who like to learn a lot and with many goals to achieve.
+
+                If you want to know me a little more, I invite you to connect through LinkedIn or by my email !
                 </p>
                 <a href="#contact" className='btn btn-primary'>Let's Talk
                 </a>
