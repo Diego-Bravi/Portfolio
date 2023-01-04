@@ -35,7 +35,7 @@ const Contact = () => {
           <article className='contact__option'>
             <ImWhatsapp className='Contact__option-icon'/>
           <h4>WhatsApp</h4>
-          <a href="https://api.whatsapp.com/send?phone+543518606724" target="_blank">Send a Message</a>
+          <a href="https://api.whatsapp.com/send?phone543518606724" target="_blank">Send a Message</a>
           </article>
         </div>
         <form ref={form} onSubmit={sendEmail}>
