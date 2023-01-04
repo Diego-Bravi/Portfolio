@@ -20,24 +20,26 @@ const About = () => {
                 <div className="about__cards">
                     <article className='about__card'>
                         <BsAward className='about__icon'/>
-                        <h5>Experience</h5>   
+                        <h5>Experience</h5> 
+                        <small>1+ year practicing</small>  
                     </article>
                     <article className='about__card'>
                         <ImBooks className='about__icon'/>
-                        <h5>Studies</h5>   
+                        <h5>Studies</h5>  
+                        <small>In second year of System Analyst</small> 
                     </article>
                     <article className='about__card'>
                         <AiOutlineFundProjectionScreen className='about__icon'/>
-                        <h5>Projects</h5>   
+                        <h5>Projects</h5>  
+                        <small>5+ Check on GitHub</small> 
                     </article>
                 </div>
                 <p>
-                Hello! My name is Diego Bravi. I am a Systems Analyst student at Colegio Universitario IES Cordoba, Argentina.
+                Hello! I am a Systems Analyst student at Colegio Universitario IES Cordoba, Argentina.
 
                 I am passionate about technology and I am looking for the opportunity to have my first job as a programmer. I am a proactive person who like to learn a lot and with many goals to achieve.
-
-                If you want to know me a little more, I invite you to connect through LinkedIn or by my email !
                 </p>
+                <p>If you want to know me a little more, I invite you to connect through LinkedIn or by my email !</p>
                 <a href="#contact" className='btn btn-primary'>Let's Talk
                 </a>
             </div>

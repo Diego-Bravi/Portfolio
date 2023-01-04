@@ -22,7 +22,7 @@ const Experience = () => {
                     <article className='experience__details'>
                         <BsCheck2Circle className = 'experience__details-info'/>
                         <div>
-                        <h4>Css</h4>
+                        <h4>CSS</h4>
                         <small className='text-ligth'>Experienced</small>
                         </div>
                     </article>
