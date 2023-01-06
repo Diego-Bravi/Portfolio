@@ -35,9 +35,7 @@ const About = () => {
                     </article>
                 </div>
                 <p>
-                Hello! I am a Systems Analyst student at Colegio Universitario IES Cordoba, Argentina.
-
-                I am passionate about technology and I am looking for the opportunity to have my first job as a programmer. I am a proactive person who like to learn a lot and with many goals to achieve.
+                Hello! I am Growing programmer who is studying for a Systems Analyst degree, specializes in React language. I develop quickly in my tasks and I like to learn with new challenges.
                 </p>
                 <p>If you want to know me a little more, I invite you to connect through LinkedIn or by my email !</p>
                 <a href="#contact" className='btn btn-primary'>Let's Talk
